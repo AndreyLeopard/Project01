@@ -13,7 +13,7 @@ Console.WriteLine(result); */
     a = 9; b = -3 -> нет
     a = -3 b = 9 -> да */
 
-Console.WriteLine("Введите первое число:");
+/* Console.WriteLine("Введите первое число:");
 int number_f = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите второе число:");
@@ -29,5 +29,6 @@ else
     Console.WriteLine("Первая переменная НЕ является квадратом второй");
 }
 
-
+ */
 // Если number_f == number_s * number_s, то напечать "равно"
+
