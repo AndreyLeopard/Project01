@@ -32,3 +32,43 @@ else
  */
 // Если number_f == number_s * number_s, то напечать "равно"
 
+
+
+/* 3. Напишите программу, которая будет выдавать название дня недели по задному номеру.
+ 3 -> Среда
+ 5 -> Пятница 
+
+Console.WriteLine("Введите дня недели:");
+int day = Convert.ToInt32(Console.ReadLine());
+
+if (day == 1)
+{
+    Console.WriteLine("Пн");
+}
+else if (day == 2)
+{
+    Console.WriteLine("Вт");
+}
+else if (day == 3)
+{
+    Console.WriteLine("Ср");
+}
+else if (day == 4)
+{
+    Console.WriteLine("Чт");
+}
+else if (day == 5)
+{
+    Console.WriteLine("Пт");
+}
+else if (day == 6)
+{
+    Console.WriteLine("Сб");
+}
+else if (day == 7)
+{
+    Console.WriteLine("Вс");
+}
+*/
+
+
