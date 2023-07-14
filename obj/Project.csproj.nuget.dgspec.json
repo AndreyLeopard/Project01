@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\Project\\Project.csproj": {}
+    "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\project\\Project.csproj": {}
   },
   "projects": {
-    "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\Project\\Project.csproj": {
+    "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\project\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\Project\\Project.csproj",
+        "projectUniqueName": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\project\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\Project\\Project.csproj",
+        "projectPath": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\project\\Project.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\Project\\obj\\",
+        "outputPath": "D:\\gb курс Разработчик\\Язык C#\\CONSOLEAPP\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"
