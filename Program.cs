@@ -89,4 +89,4 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int result = Power(num);
 
-ConsoleWriteLine(result);
+Console.WriteLine(result);
